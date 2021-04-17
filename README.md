@@ -23,3 +23,6 @@ There will be more...
 ### 我正在做(What am I doing)  
 学习，学习，学习  
 Study,study,study  
+
+### 我的博客（My Blog）  
+[Misaka\`s Blog](https://www.mis1042.top)

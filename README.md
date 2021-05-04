@@ -2,7 +2,7 @@
   
 ## 介绍(About Me)  
 这里是Misaka10042，御坂网络节点编号10042，初二学生  
-This is Misaka 10042, Misaka network node serial number 10042, grade eight student  
+This is Misaka 10042, Misaka network node serial number 10042, a Grade 8 student  
 
 ### 我能做啥(What can I do)
 Emmm，我觉得我什么都不可以，大概Python吧  
@@ -25,7 +25,7 @@ There will be more...
 
 ### 我正在做(What I am doing)  
 学习，学习，学习  
-Study,study,study  
+Studying,studying,studying  
 
 ### 我的博客（My Blog）  
 [Misaka\`s Blog](https://www.mis1042.top)

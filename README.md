@@ -4,7 +4,7 @@
 这里是Misaka10042，御坂网络节点编号10042，初二学生  
 This is Misaka 10042, Misaka network node serial number 10042, grade eight student  
 
-### 我能做啥(How Can I do)
+### 我能做啥(What can I do)
 Emmm，我觉得我什么都不可以，大概Python吧  
 Emmm, I don't think I can do anything,Maybe python  
 
@@ -23,7 +23,7 @@ If you want to join, please contact me
 将会有更多...  
 There will be more...
 
-### 我正在做(What am I doing)  
+### 我正在做(What I am doing)  
 学习，学习，学习  
 Study,study,study  
 

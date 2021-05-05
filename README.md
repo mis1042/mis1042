@@ -1,6 +1,6 @@
 # Misaka10042  
   
-## 我们的品牌 (Our brand). 
+## 我们的品牌 (Our brand)   
 Syrathon  
 ## 介绍(About Me)  
 这里是Misaka10042，御坂网络节点编号10042，初二学生  

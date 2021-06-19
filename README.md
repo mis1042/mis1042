@@ -1,5 +1,9 @@
 # Misaka10042  
   
+  
+# 统计  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mis1042&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mis1042&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ## 我们的品牌 (Our brand)   
 Syrathon  
 ## 介绍(About Me)  

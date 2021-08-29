@@ -7,7 +7,7 @@
 ## 我们的品牌 (Our brand)   
 Syrathon  
 ## 介绍(About Me)  
-这里是Misaka10042，御坂网络节点编号10042，初二学生  
+这里是Misaka10042，御坂网络节点编号10042，初三学生  
 This is Misaka 10042, Misaka network node serial number 10042, a Grade 8 student  
 
 ### 我能做啥(What can I do)
